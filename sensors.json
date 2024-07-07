@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Sensor de Temperatura",
+      "type": "temperature",
+      "value": 25.3,
+      "unit": "°C",
+      "updated_at": "2024-07-07T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Sensor de Humedad",
+      "type": "humidity",
+      "value": 60.8,
+      "unit": "%",
+      "updated_at": "2024-07-07T12:05:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Sensor de Presión",
+      "type": "pressure",
+      "value": 987.2,
+      "unit": "hPa",
+      "updated_at": "2024-07-07T12:10:00Z"
+    }
+  ]
+  
